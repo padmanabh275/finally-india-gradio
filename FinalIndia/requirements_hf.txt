@@ -1,0 +1,7 @@
+streamlit>=1.41.0
+yfinance>=0.2.40
+pandas>=2.2.0
+python-dotenv>=1.0.1
+transformers>=4.48.0
+torch>=2.5.0
+
